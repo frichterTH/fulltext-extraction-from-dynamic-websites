@@ -1,0 +1,203 @@
+keywords,lemmatized,stemmed
+ID reference,id reference,id refer
+title,title,titl
+authors,author,author
+volume,volume,volum
+year,year,year
+first page,first page,first page
+last page,last page,last page
+journal full name,journal full name,journal full name
+journal abbreviation,journal abbreviation,journal abbrevi
+doc type,doc type,doc type
+URL,url,url
+ID strains,id strain,id strain
+genus,genus,genu
+species,specie,speci
+species epithet,species epithet,speci epithet
+subspecies epithet,subspecies epithet,subspeci epithet
+designation,designation,design
+is type strain,be type strain,is type strain
+strain number,strain number,strain number
+DSM num,dsm num,dsm num
+cell len,cell len,cell len
+cell len unit,cell len unit,cell len unit
+cell width,cell width,cell width
+cell width unit,cell width unit,cell width unit
+cell shape,cell shape,cell shape
+motility,motility,motil
+flagellum arrangement,flagellum arrangement,flagellum arrang
+gram stain,gram stain,gram stain
+colony len,colony len,coloni len
+colony len unit,colony len unit,coloni len unit
+colony width,colony width,coloni width
+colony width unit,colony width unit,coloni width unit
+colony shape,colony shape,coloni shape
+colony color,colony color,coloni color
+incubation period,incubation period,incub period
+hemolysis type,hemolysis type,hemolysi type
+medium name,medium name,medium name
+medium composition,medium composition,medium composit
+medium growth,medium growth,medium growth
+Cell length,cell length,cell length
+Cell length unit,cell length unit,cell length unit
+Cell width,cell width,cell width
+Cell width unit,cell width unit,cell width unit
+Cell shape,cell shape,cell shape
+Motility,motility,motil
+Flagellum arrangement,flagellum arrangement,flagellum arrang
+Gram stain,gram stain,gram stain
+Colony length,colony length,coloni length
+Colony length unit,colony length unit,coloni length unit
+Colony width,colony width,coloni width
+Colony width unit,colony width unit,coloni width unit
+Colony shape,colony shape,coloni shape
+Colony color,colony color,coloni color
+Incubation period,incubation period,incub period
+hemolysis type,hemolysis type,hemolysi type
+Cultivation medium used,cultivation medium use,cultiv medium use
+Cultivation medium composition,cultivation medium composition,cultiv medium composit
+Culture medium,culture medium,cultur medium
+Culture medium composition,culture medium composition,cultur medium composit
+Culture medium growth,culture medium growth,cultur medium growth
+pH,ph,ph
+test type,test type,test type
+ability,ability,abil
+pH-value,ph - value,ph-valu
+Test-type,test - type,test-typ
+Ability,ability,abil
+temp,temp,temp
+test type,test type,test type
+ability,ability,abil
+temperature range,temperature range,temperatur rang
+enzyme,enzyme,enzym
+activity,activity,activ
+ec number,ec number,ec number
+GC content,gc content,gc content
+GC method,gc method,gc method
+halophily,halophily,halophili
+salt,salt,salt
+salt concentration,salt concentration,salt concentr
+salt concentration unit,salt concentration unit,salt concentr unit
+ability,ability,abil
+test type,test type,test type
+metabolite,metabolite,metabolit
+ability,ability,abil
+test type,test type,test type
+production,production,product
+excreted,excrete,excret
+methyl red,methyl red,methyl red
+voges proskauer,voges proskauer,voge proskauer
+indole test,indole test,indol test
+citrate test,citrate test,citrat test
+is antibiotic,be antibiotic,is antibiot
+ab sensitive,ab sensitive,ab sensit
+ab sensitivity conc,ab sensitivity conc,ab sensit conc
+ab sensitivity unit,ab sensitivity unit,ab sensit unit
+ab resistant,ab resistant,ab resist
+ab resistance conc,ab resistance conc,ab resist conc
+ab resistance unit,ab resistance unit,ab resist unit
+chebi,chebi,chebi
+multicell name,multicell name,multicel name
+multicell color,multicell color,multicel color
+multicell size,multicell size,multicel size
+multicell size unit,multicell size unit,multicel size unit
+ability,ability,abil
+medium name,medium name,medium name
+description,description,descript
+murein short index,murein short index,murein short index
+murein types,murein type,murein type
+nutrition type,nutrition type,nutrit type
+attribute,attribute,attribut
+ability,ability,abil
+geo loc name,geo loc name,geo loc name
+country,country,countri
+continent,continent,contin
+latitude,latitude,latitud
+longitude,longitude,longitud
+sample date,sample date,sampl date
+sample type,sample type,sampl type
+enrichment cult name,enrichment cult name,enrich cult name
+enrichment cult composition,enrichment cult composition,enrich cult composit
+enrichment cult duration,enrichment cult duration,enrich cult durat
+enrichment cult temp,enrichment cult temp,enrich cult temp
+procedure,procedure,procedur
+isolation date,isolation date,isol date
+oxygen tol,oxygen tol,oxygen tol
+pigment name,pigment name,pigment name
+pigment color,pigment color,pigment color
+pigment production,pigment production,pigment product
+ability,ability,abil
+type,type,type
+description,description,descript
+compound name,compound name,compound name
+level percent,level percent,level percent
+concentration,concentration,concentr
+concentration unit,concentration unit,concentr unit
+Temperature-value,temperature - value,temperature-valu
+Test-type,test - type,test-typ
+Ability,ability,abil
+Temperature range,temperature range,temperatur rang
+Enzyme name,enzyme name,enzym name
+activity,activity,activ
+EC number,ec number,ec number
+GC-content,gc - content,gc-content
+GC-content method,gc - content method,gc-content method
+Halophily / tolerance level,halophily / tolerance level,halophili / toler level
+Salt,salt,salt
+Salt concentration,salt concentration,salt concentr
+Salt concentration unit,salt concentration unit,salt concentr unit
+"ability (+,-,+/-)","ability ( + , -,+/- )","abil (+,-,+/-)"
+test type,test type,test type
+Metabolite name,metabolite name,metabolit name
+Ability,ability,abil
+type of utilization,type of utilization,type of util
+production,production,product
+excreted,excrete,excret
+Methyl-red-test,methyl - red - test,methyl-red-test
+Voges-Proskauer-test,voges - proskauer - test,voges-proskauer-test
+Indole-test,indole - test,indole-test
+Citrate-test,citrate - test,citrate-test
+antibiotic function,antibiotic function,antibiot function
+AB sensitive,ab sensitive,ab sensit
+AB sensitivity concentration ,ab sensitivity concentration,ab sensit concentr
+AB sensitivity unit,ab sensitivity unit,ab sensit unit
+AB resistant,ab resistant,ab resist
+AB resistance concentration ,ab resistance concentration,ab resist concentr
+AB resistance unit,ab resistance unit,ab resist unit
+chebi ID,chebi id,chebi id
+Multicellular complex name,multicellular complex name,multicellular complex name
+Multicellular complex color,multicellular complex color,multicellular complex color
+Multicellular complex size,multicellular complex size,multicellular complex size
+Multicellular complex size unit,multicellular complex size unit,multicellular complex size unit
+Multicellular complex forming ability,multicellular complex form ability,multicellular complex form abil
+Medium Name (multicellularity),medium name ( multicellularity ),medium name (multicellularity)
+Multicellular complex further description,multicellular complex further description,multicellular complex further descript
+Murein short index,murein short index,murein short index
+Murein types,murein type,murein type
+nutrition type,nutrition type,nutrit type
+Observed attribute,observed attribute,observ attribut
+"ability (able,not able)","ability ( able , not able )","abil (able,not able)"
+"Geographic location (country and/or sea, region)","geographic location ( country and/or sea , region )","geograph locat (countri and/or sea, region)"
+Country,country,countri
+Continent,continent,contin
+Geographic location (latitude),geographic location ( latitude ),geograph locat (latitude)
+Geographic location (longitude),geographic location ( longitude ),geograph locat (longitude)
+Sample type/isolated from,sample type / isolate from,sampl type/isol from
+Sampling date,sampling date,sampl date
+Enrichment culture,enrichment culture,enrich cultur
+Enrichment culture composition,enrichment culture composition,enrich cultur composit
+Enrichment culture duration,enrichment culture duration,enrich cultur durat
+Enrichment culture temperature,enrichment culture temperature,enrich cultur temperatur
+Isolation/enrichment procedure,isolation / enrichment procedure,isolation/enrich procedur
+Isolation date,isolation date,isol date
+Oxygen tolerance,oxygen tolerance,oxygen toler
+Pigment name,pigment name,pigment name
+Pigmentation color,pigmentation color,pigment color
+Pigmentation produced,pigmentation produce,pigment produc
+Ability of spore formation,ability of spore formation,abil of spore format
+Type of spore,type of spore,type of spore
+Spore description,spore description,spore descript
+Name of tolerated compound,name of tolerate compound,name of toler compound
+Tolerance percentage,tolerance percentage,toler percentag
+Tolerated concentration,tolerate concentration,toler concentr
+Tolerated concentration unit,tolerated concentration unit,toler concentr unit
